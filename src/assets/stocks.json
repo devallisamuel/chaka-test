@@ -1,0 +1,130 @@
+ [
+    {
+    "open": "122.6200",
+    "high": "123.9767",
+    "low": "122.4000",
+    "close": "123.6100",
+    "volume": "5887999",
+    "imageUrl": "assets/blonde.jpg"
+    },
+    {
+    "open": "125.0500",
+    "high": "128.2400",
+    "low": "124.6100",
+    "close": "127.8700",
+    "volume": "7247807",
+    "imageUrl": "assets/blonde.jpg"
+    },
+    {
+        "open": "125.4000",
+        "high": "126.4300",
+        "low": "124.1600",
+        "close": "124.1800",
+        "volume": "5609029",
+        "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "122.9900",
+            "high": "126.8500",
+            "low": "122.8800",
+            "close": "124.8100",
+            "volume": "7239191",
+            "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "120.6400",
+            "high": "123.7500",
+            "low": "120.2500",
+            "close": "122.8300",
+            "volume": "6949265",
+            "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "122.0000",
+            "high": "123.2200",
+            "low": "118.7550",
+            "close": "120.1100",
+            "volume": "8068492",
+            "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "120.5000",
+            "high": "122.6340",
+            "low": "119.9800",
+            "close": "122.3600",
+            "volume": "7404269",
+            "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "120.7400",
+            "high": "121.9000",
+            "low": "120.2600",
+            "close": "120.3300",
+            "volume": "4524299",
+             "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "120.3500",
+            "high": "122.3200",
+            "low": "119.8649",
+            "close": "120.7400",
+            "volume": "5715767",
+             "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "122.2500",
+            "high": "122.2500",
+            "low": "118.8800",
+            "close": "118.9300",
+            "volume": "8868848",
+            "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "123.3700",
+            "high": "124.3500",
+            "low": "122.3350",
+            "close": "122.4700",
+            "volume": "5672671",
+            "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "120.8000",
+            "high": "123.4900",
+            "low": "120.5200",
+            "close": "123.2100",
+            "volume": "5819983",
+             "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "120.9200",
+            "high": "121.3500",
+            "low": "119.8000",
+            "close": "120.7100",
+            "volume": "4531464",
+             "imageUrl": "assets/blonde.jpg"
+        },
+        {
+            "open": "118.5000",
+            "high": "121.1250",
+            "low": "118.4400",
+            "close": "120.8600",
+            "volume": "5838841",
+             "imageUrl": "assets/blonde.jpg"
+        },
+        {
+        "open": "120.7500",
+        "high": "120.7600",
+        "low": "118.3800",
+        "close": "118.9900",
+        "volume": "6578741",
+         "imageUrl": "assets/blonde.jpg"
+        },
+      {  
+    "open": "120.5000",
+    "high": "120.9400",
+    "low": "119.7000",
+    "close": "120.7300",
+    "volume": "5399145",
+    "imageUrl": "assets/blonde.jpg"
+        }
+]

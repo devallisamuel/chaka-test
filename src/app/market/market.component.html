@@ -1,0 +1,77 @@
+
+<section>
+    <!-- first row -->
+    <div>
+        <h3 class="text-margin">Lorem, ipsum</h3>
+        <h1 class="text-margin">Lorem, ipsum dolor.</h1>
+        <div class="wrapper ">
+            <div class="row">
+                <div *ngFor=" let stock of stocks row-space" >
+                    <ul class="col-1">
+                        <li>{{ stock.high }}</li>
+                        <li>{{ stock.low }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- second data row -->
+    <div class="section-top split-items">
+        <div class="split-left">
+            <div class="wrapper">
+                <div class="row">
+                    <div *ngFor="let picture of pictures">
+                        <img class="col" [src]="picture.imageUrl">
+                    </div>
+                    
+                </div>
+            </div>
+            
+        </div>
+        <div class="text-margin split-right">
+            <h3>Lorem.</h3>
+            <h5>Lorem ipsum, dolor sit amet 
+                consectetur adipisicing elit. Nobis, hic!</h5>
+        </div>
+    </div>
+    <div class="text-margin section-top">
+        <h1>Lorem.</h1>
+        <div class="text-margin dividend">
+            <div class="move-left">
+                <h4>symbol</h4>
+            </div>
+            <div class="move-right">
+                <h4>amount</h4>
+            </div>
+        </div>
+    </div>
+    <div class="section-top">
+        <h3 class="text-margin">earning</h3>
+        <div class="income-info text-margin">
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+            <h5>lorem1</h5>
+        </div>
+    </div>
+    <div class="text-margin section-top">
+        <h2>Lorem, ipsum.</h2>
+        <h3>March 13 2021</h3>
+    </div>
+    <div class="wrapper">
+            <div class="row">
+            
+                <div *ngFor="let stock of stocks">
+                    <div><img class="col-1" [src]="stock.imageUrl"></div>
+                </div>
+            </div>
+    </div>
+    <div class="route-button">
+        <button (click)="onClick()">Next page</button>
+    </div>
+
+</section>

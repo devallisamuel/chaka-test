@@ -1,0 +1,17 @@
+
+<section>
+    <h2>News</h2>
+    <div *ngFor="let stock of stocks" class="split-divs">
+        <div class="split-left"><img [src]="stock.imageUrl"></div>
+        <div class="split-right">
+            <h1>Lorem ipsum dolor sit amet 
+                consectetur adipisicing elit. Cupiditate, sequi?</h1>
+            <h3>Lorem ipsum dolor sit amet 
+                consectetur adipisicing elit. Cupiditate, sequi?</h3>
+        </div>
+    </div>
+</section>
+<div class="route-button">
+    <button class="route-button" (click)="onBack()">Back</button>  
+</div>
+ 
